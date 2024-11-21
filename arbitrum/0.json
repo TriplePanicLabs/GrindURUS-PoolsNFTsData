@@ -1,0 +1,24 @@
+{
+    "description": "GrindURUS Protocol Pool with WETH + USDT assets", 
+    "external_url": "grindurus.eth", 
+    "image": "https://raw.githubusercontent.com/TriplePanicLabs/GrindURUS-PoolsNFTsData/refs/heads/main/GrindURUS_logo.png",
+    "name": "GrindURUS Pool 0",
+    "attributes": [
+        {
+            "trait_type": "Quote Token", 
+            "value": "USDT"
+        },
+        {
+            "trait_type": "Base Token", 
+            "value": "WETH"
+        },
+        {
+            "trait_type": "Lending Protocol", 
+            "value": "AAVEv3"
+        },
+        {
+            "trait_type": "DEX Protocol", 
+            "value": "UniswapV3"
+        }
+    ]
+}
